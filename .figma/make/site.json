@@ -1,0 +1,10 @@
+{
+  "description": "Discover and save curated lifestyle inspiration with a sleek, minimalist feed featuring fashion, wellness, and design ideas tailored for aesthetic enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
